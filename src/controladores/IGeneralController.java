@@ -15,5 +15,6 @@ public interface IGeneralController <T> {
     
     T buscarPorCedula(T objeto);
     
+    
 }
 

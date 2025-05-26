@@ -10,14 +10,9 @@ package vistas.medico;
  */
 public class GestionMedico extends javax.swing.JFrame {
 
-    /**
-     * Creates new form GestionMedico
-     */
+   
     public GestionMedico() {
         initComponents();
-        
-        
-        
         
         
     }
